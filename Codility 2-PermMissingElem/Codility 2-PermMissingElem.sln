@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility 2-PermMissingElem", "Codility 2-PermMissingElem\Codility 2-PermMissingElem.csproj", "{BD867027-1F2C-4B10-B418-4478B74BD6C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD867027-1F2C-4B10-B418-4478B74BD6C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD867027-1F2C-4B10-B418-4478B74BD6C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD867027-1F2C-4B10-B418-4478B74BD6C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD867027-1F2C-4B10-B418-4478B74BD6C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64EC37DE-D490-41E5-8A57-EDA77ACE9865}
+	EndGlobalSection
+EndGlobal
