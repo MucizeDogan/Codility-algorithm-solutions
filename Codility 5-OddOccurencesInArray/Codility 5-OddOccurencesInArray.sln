@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility 5-OddOccurencesInArray", "Codility 5-OddOccurencesInArray\Codility 5-OddOccurencesInArray.csproj", "{9AE9B24B-FBDD-4FFE-80A3-6AF5DC379411}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AE9B24B-FBDD-4FFE-80A3-6AF5DC379411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE9B24B-FBDD-4FFE-80A3-6AF5DC379411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AE9B24B-FBDD-4FFE-80A3-6AF5DC379411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AE9B24B-FBDD-4FFE-80A3-6AF5DC379411}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A2576DC-789F-4C89-9CE8-BF3498F3C1A3}
+	EndGlobalSection
+EndGlobal
